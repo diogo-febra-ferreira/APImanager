@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestAPI", "RestAPI\RestAPI.csproj", "{AF4A5784-ABDB-4A15-B252-32F8D1E4AE4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppA", "WindowsFormsAppA\WindowsFormsAppA.csproj", "{3D70B682-DACF-426C-A184-294F8719454E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF4A5784-ABDB-4A15-B252-32F8D1E4AE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4A5784-ABDB-4A15-B252-32F8D1E4AE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4A5784-ABDB-4A15-B252-32F8D1E4AE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4A5784-ABDB-4A15-B252-32F8D1E4AE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D70B682-DACF-426C-A184-294F8719454E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D70B682-DACF-426C-A184-294F8719454E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D70B682-DACF-426C-A184-294F8719454E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D70B682-DACF-426C-A184-294F8719454E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {934B497E-C52F-4A46-8404-B2A2226208A0}
+	EndGlobalSection
+EndGlobal
