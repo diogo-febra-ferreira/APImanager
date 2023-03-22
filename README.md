@@ -7,3 +7,5 @@ A RESTful API for managing four types of resources aimed at IoT data: applicatio
 ## Image
 
 ![projIS](https://user-images.githubusercontent.com/76527448/226973286-d42c9a45-52f8-49f6-98f4-1bafdbd6d4a0.PNG)
+
+client application developed for testing
